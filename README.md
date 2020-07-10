@@ -60,8 +60,8 @@ module.exports = output ```
 
 `webpack.config.js`
 
-```
-let entry = require('./config/entry');
+
+```let entry = require('./config/entry');
 let plugins = require('./config/plugins');
 let loaders = require('./config/loaders');
 let output = require('./config/output');
@@ -130,7 +130,8 @@ module.exports = {
 
 好了,最后祝大家愉快的使用在项目中,不清楚的可以私我或者留言
 
-- [Markdown](https://www.jianshu.com/p/9349ebcb14a6)
-- [预览项目](http://www.sensorhunt.com/)
+
+[预览项目](http://www.sensorhunt.com/)
+
 
 
